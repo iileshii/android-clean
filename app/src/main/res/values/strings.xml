@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ArchitectureHello</string>
+    <string name="btn_catalog">Catalog</string>
+</resources>
